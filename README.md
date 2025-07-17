@@ -87,6 +87,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=YoXplore&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=PersonalWebsite&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=AlfinsKost&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=MachineLearningt&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=VerdaOfficial&theme=tokyonight&hide_border=true" />
   
   <!-- Total Repositories Badge -->
   <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDimasrzky&style=for-the-badge&color=2e9fff" alt="Total Repositories" />
