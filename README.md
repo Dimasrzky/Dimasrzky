@@ -1,4 +1,4 @@
-# 💫 Hello, I'm Muhamad Dimas Rizky Darmawan!
+# 👑 Hello, I'm King, Muhamad Dimas Rizky Darmawan!
 
 <div align="center">
   
@@ -143,14 +143,6 @@
 </div>
 
 ---
-
-<div align="center">
-  
-  ### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
-  
-  **Thanks for visiting my profile! ⭐ Don't forget to star my repositories if you find them useful!**
-  
-</div>
 
 ---
 
