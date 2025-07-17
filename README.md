@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineering;Problem+Solver;Always+Learning+New+Things)
   
   <p>🚀 Welcome to my GitHub! I'm passionate about creating amazing web experiences</p>
   
