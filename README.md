@@ -84,19 +84,12 @@
   
   <!-- Profile Repository -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=Dimasrzky&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=YoXplore&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=PersonalWebsite&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=AlfinsKost&theme=tokyonight&hide_border=true" />
   
   <!-- Total Repositories Badge -->
   <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDimasrzky&style=for-the-badge&color=2e9fff" alt="Total Repositories" />
-  
-</div>
-
-<!-- Repository Overview with all repos displayed -->
-<div align="center">
-  
-  ### 📊 Repository Breakdown
-  
-  <!-- This widget shows comprehensive repository information -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dimasrzky&theme=tokyonight" />
   
 </div>
 
