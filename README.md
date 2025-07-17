@@ -82,8 +82,8 @@
 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=your-repo-name&theme=tokyonight&hide_border=true)](https://github.com/Dimasrzky/your-repo-name)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=another-repo-name&theme=tokyonight&hide_border=true)](https://github.com/Dimasrzky/another-repo-name)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=your-repo-name&theme=tokyonight&hide_border=true)](https://github.com/Dimasrzky/bucinconnect)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=another-repo-name&theme=tokyonight&hide_border=true)](https://github.com/Dimasrzky/verda-official)
   
 </div>
 
