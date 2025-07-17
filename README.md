@@ -129,9 +129,6 @@
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dimasrzky&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="GitHub Activity Graph" />
   
-  <!-- Contribution Streak -->
-  <img src="https://github-contribution-graph.vercel.app/api?username=Dimasrzky&theme=tokyo-night" alt="Contribution Graph" />
-  
 </div>
 
 ---
