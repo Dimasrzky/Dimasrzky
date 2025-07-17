@@ -113,11 +113,23 @@
 
 <div align="center">
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dimasrzky/Dimasrzky/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dimasrzky/Dimasrzky/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/Dimasrzky/Dimasrzky/blob/output/github-contribution-grid-snake.svg">
-  </picture>
+  <!-- Primary snake animation -->
+  <img src="https://github.com/Dimasrzky/Dimasrzky/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+  <!-- Fallback: 3D Contribution Graph -->
+  <img src="https://github.com/Dimasrzky/Dimasrzky/blob/main/profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" />
+  
+</div>
+
+## 📊 Alternative Contribution Visualizations:
+
+<div align="center">
+  
+  <!-- Contribution Calendar -->
+  <img src="https://ghchart.rshah.org/Dimasrzky" alt="Contribution Calendar" />
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dimasrzky&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
   
 </div>
 
