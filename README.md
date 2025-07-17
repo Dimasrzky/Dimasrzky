@@ -87,7 +87,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=YoXplore&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=PersonalWebsite&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=AlfinsKost&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=MachineLearningt&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=MachineLearning&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=VerdaOfficial&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=bucinconnect&theme=tokyonight&hide_border=true" />
   
