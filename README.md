@@ -78,12 +78,34 @@
 
 ---
 
-## 🌟 Featured Projects:
+## 🌟 My Repositories:
 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=your-repo-name&theme=tokyonight&hide_border=true)](https://github.com/Dimasrzky/your-repo-name)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dimasrzky&repo=another-repo-name&theme=tokyonight&hide_border=true)](https://github.com/Dimasrzky/another-repo-name)
+  <!-- Link to all repositories -->
+  <a href="https://github.com/Dimasrzky?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
+  </a>
+  
+  <!-- Total repository count -->
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDimasrzky&style=for-the-badge&color=2e9fff" alt="Total Repositories" />
+  
+</div>
+
+## 📊 Repository Analytics:
+
+<div align="center">
+  
+  <!-- Repository Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dimasrzky&theme=tokyonight" alt="Repository Summary" />
+  
+  <!-- Language Distribution -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dimasrzky&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dimasrzky&theme=tokyonight" alt="Most Commit Language" />
+  
+  <!-- Commit Statistics -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dimasrzky&theme=tokyonight" alt="Repository Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dimasrzky&theme=tokyonight&utcOffset=7" alt="Productive Time" />
   
 </div>
 
@@ -128,6 +150,9 @@
   
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dimasrzky&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="GitHub Activity Graph" />
+  
+  <!-- Contribution Streak -->
+  <img src="https://github-contribution-graph.vercel.app/api?username=Dimasrzky&theme=tokyo-night" alt="Contribution Graph" />
   
 </div>
 
