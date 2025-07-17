@@ -109,27 +109,28 @@
 
 ---
 
-## 🐍 Watch my contributions get eaten by a snake!
+## 🐍 Contribution Visualizations:
 
 <div align="center">
   
-  <!-- Primary snake animation -->
-  <img src="https://github.com/Dimasrzky/Dimasrzky/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
-  <!-- Fallback: 3D Contribution Graph -->
-  <img src="https://github.com/Dimasrzky/Dimasrzky/blob/main/profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" />
+  <!-- Contribution Snake Game (External Service) -->
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
   
 </div>
 
-## 📊 Alternative Contribution Visualizations:
+## 📊 GitHub Activity Visualizations:
 
 <div align="center">
   
-  <!-- Contribution Calendar -->
-  <img src="https://ghchart.rshah.org/Dimasrzky" alt="Contribution Calendar" />
+  <!-- Contribution Calendar Heatmap -->
+  <img src="https://ghchart.rshah.org/2e9fff/Dimasrzky" alt="GitHub Contribution Calendar" />
   
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dimasrzky&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dimasrzky&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="GitHub Activity Graph" />
+  
+  <!-- Contribution Streak -->
+  <img src="https://github-contribution-graph.vercel.app/api?username=Dimasrzky&theme=tokyo-night" alt="Contribution Graph" />
   
 </div>
 
